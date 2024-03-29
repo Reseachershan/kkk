@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "358112371102",
+    "project_id": "klimb-1a8aa",
+    "storage_bucket": "klimb-1a8aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358112371102:android:0c71c3b55c909ea7aff68f",
+        "android_client_info": {
+          "package_name": "com.klimb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358112371102-2tq3ccbme78imsrhs8r55je22v1jracs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.klimb",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "358112371102-l56vgm70usompvic99cvp45hhi7tmkl1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKmBilyAhNawCsKt-i6ReVQBQvFIfWLnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358112371102-l56vgm70usompvic99cvp45hhi7tmkl1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "358112371102-h5eaqnk4lavsi4237is3bke6baevvkqh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.klimb.elevow",
+                "app_store_id": "6444870459"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

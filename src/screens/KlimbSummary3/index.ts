@@ -1,0 +1,1 @@
+export { KlimbSummary3 as default } from "./KlimbSummary3";
